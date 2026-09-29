@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
+kidney_disease.csv
+kidney_cleaned.csv
+kidney_disease_model.pkl
+batch/batch_predictions.csv
+.venv/
+__pycache__/
+*.py[cod]
+.env
+kidney_disease.csv
+kidney_cleaned.csv
+kidney_disease_model.pkl
+batch/batch_predictions.csv
